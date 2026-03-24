@@ -1,4 +1,4 @@
-# Análise de Vendas - Online Retail
+# Análise de Faturamento - Online Retail
 
 Este projeto tem como objetivo compreender o comportamento de vendas de uma base de e-commerce, identificando padrões de consumo, concentração de receita e nível de recorrência dos clientes.
 
