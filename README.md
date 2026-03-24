@@ -63,6 +63,7 @@ Before the analysis, the following adjustments were made:
 ## Dashboard
 
 A dashboard was developed to visualize key metrics and patterns identified in the analysis.
+
 ![Dashboard Preview](Ecommerce_analysis_dashboard_print.png)
 
 ---
